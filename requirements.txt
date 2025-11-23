@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+pykrige
+numpy
+scipy
+shapely
+gdown
