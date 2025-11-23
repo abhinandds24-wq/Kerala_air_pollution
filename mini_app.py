@@ -287,4 +287,4 @@ elif mode == "Kriging Smooth Map":
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-st.write("Notes: This is the basic kriging pipeline (detrend + ordinary kriging on residuals). For research-grade results add variogram fitting, anisotropy, external drift and spatial cross-validation.")
+st.write("Notes:n.")
