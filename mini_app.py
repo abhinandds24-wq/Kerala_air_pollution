@@ -16,7 +16,7 @@ st.set_page_config(page_title="Kerala Pollution Dashboard — Monthly/Seasonal K
 # -------------------------
 # Use local CSV you uploaded previously. If different, update this path.
 DATA_PATH = "/mnt/data/df_final.csv"                # <-- change only if your CSV path differs
-BOUNDARY_PATH = "/mnt/data/state (1).geojson"      # <-- exact uploaded geojson
+BOUNDARY_PATH = "kerala_boundary.geojson"      # <-- exact uploaded geojson
 # Fast-mode defaults (Option A)
 DEFAULT_SAMPLE = 1000
 DEFAULT_GRID = 60
