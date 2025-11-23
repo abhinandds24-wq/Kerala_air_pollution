@@ -17,7 +17,7 @@ st.set_page_config(page_title="Kerala Pollution Dashboard (Kriging)", layout="wi
 # -------------------------
 DATA_URL = "https://drive.google.com/uc?id=1M6I2ku_aWGkWz0GypktKXeRJPjNhlsM2"
 LOCAL_FILE = "kerala_pollution.csv"            # file downloaded by gdown
-BOUNDARY_PATH = "/mnt/data/state (1).geojson"  # local geojson you uploaded
+BOUNDARY_PATH = "kerala_boundary.geojson"  # local geojson you uploaded
 
 # -------------------------
 # LOAD DATA (gdown if needed)
